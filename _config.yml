@@ -4,13 +4,13 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: capacitaciones
-description: 
-url: "https://togga117.github.io/"
-baseurl: "capacitaciones/"
+description: esto es una prueba
+url: "https://togga117.github.io"
+baseurl: "capacitaciones"
 twitter_username: 
 default_img: 
 
-# Profile settings
+# Profile settings/
 name: 
 profile_img: 
 profile: 
